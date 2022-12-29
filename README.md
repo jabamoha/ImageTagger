@@ -1,5 +1,6 @@
 
 # ImageTagger
+An Android app based on AI-Image Processing
 
 ![](utils/images/image-tagger.gif)
 
