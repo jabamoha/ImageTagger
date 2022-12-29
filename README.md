@@ -58,15 +58,6 @@ The following Python modules demonstrate how to process the data, train and eval
 
 ### Instructions
 
-**Installing Android App:**
-In order to run the ImageTagger app on your Android device follow the instructions:
-
-1. Download the release [file](https://github.com/slipnitskaya/image-tagger/releases/download/v1.0-alpha/image-tagger-v1.0-alpha.apk) to your Android device.
-
-2. Open the app on your Android device
-
-3. Enjoy the automatic image tagging
-
 **Run Python Code:**
 
 
