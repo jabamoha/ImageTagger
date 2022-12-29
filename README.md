@@ -4,7 +4,7 @@
 ![](utils/images/image-tagger.gif)
 
 
-###Summary
+### Summary
 
 The amount of visual information - such as photos and social media images - has been getting bigger exponentially over past decades, motivating the development of software that can effectively handle high-volume image collections.
 Specifically, the ability to generate relevant textual labels for images can help users to eliminate manual image processing, automate image labeling (ex. web content tagging, online catalogs) and potentially benefit existing applications that imply organization of high-volume imaging data (ex. image managers), image search and sharing (ex. recommendation engines).
